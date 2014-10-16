@@ -12,6 +12,8 @@ Habilitamos las APIs de Google que vayamos a usar y por último desplegamos la ap
 
 http://practicatutorizada.herokuapp.com/
 
+###Información
+
 See these links:
 
 * [Strategy to authenticate with Google via OAuth2 in OmniAuth.](https://github.com/zquestz/omniauth-google-oauth2)
