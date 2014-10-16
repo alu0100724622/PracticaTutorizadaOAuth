@@ -1,4 +1,16 @@
-# Authenticating with Google
+##Práctica: Usando OAuth con omniauth
+### Authenticating with Google
+
+**Autora:** Noelia Rodríguez Martín
+
+**Fecha:** 15 de Octubre de 2014
+
+**Details:** Configuramos nuestra propia versión del ejemplo de uso de OmniAuth, para ello creamos una nueva aplicación con nuestro ID de cliente y nuestro secreto de cliente. 
+Habilitamos las APIs de Google que vayamos a usar y por último desplegamos la aplicación en Heroku.
+
+###Página de Heroku
+
+http://practicatutorizada.herokuapp.com/
 
 See these links:
 
